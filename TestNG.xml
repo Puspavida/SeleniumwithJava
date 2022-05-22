@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "suite"  >
+	<test name = "test">
+		<parameter name="State" value ="Karnataka" />
+		<parameter name="City" value= "Bangalore" />
+		<parameter name="Area" value= "Basavangudi" />
+		<classes>
+			<class name="Functionality.ValidLoginPage" />
+		</classes>
+	</test>
+</suite>
